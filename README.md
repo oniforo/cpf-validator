@@ -7,7 +7,7 @@ CPF is a Python class to guess and extract information from Brazilian's CPF (per
 Clone the following repository inside your project, then reference it as any other file.
 
 ```bash
-git clone https://github.com/[project-name]/cpf.git
+git clone https://github.com/oniforo/cpf-validator.git
 ```
 
 ## Usage
